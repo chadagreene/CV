@@ -1,7 +1,10 @@
 # Curriculum Vitae
-This repo contains a working copy of my résumé. If you like what you see, please get in touch! 
 
-You may also enjoy my: 
+<p align="center"><img src="_DSC0018_crop.JPG" width="300"/></p>
+
+This repo contains a working copy of my résumé. If you'd like to work together on something, please get in touch! 
+
+You may also enjoy: 
 
 * [Personal website](https://www.chadagreene.com/), 
 * [Google Scholar](https://scholar.google.com/citations?user=Dew6HFEAAAAJ), 
