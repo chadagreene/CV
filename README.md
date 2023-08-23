@@ -10,5 +10,6 @@ You may also enjoy:
 * [Google Scholar](https://scholar.google.com/citations?user=Dew6HFEAAAAJ), 
 * [JPL webpage](https://science.jpl.nasa.gov/people/CGreene/), 
 * [Mathworks File Exchange page](https://www.mathworks.com/matlabcentral/profile/authors/1062128?detail=fileexchange), 
-* [Twitter](https://twitter.com/chadagreene), or 
+* [Twitter](https://twitter.com/chadagreene), 
+* [Instagram](https://www.instagram.com/chadagreene), or 
 * [Youtube](https://www.youtube.com/user/chadagreene). 
